@@ -1,2 +1,3 @@
 # IAW2_Adrian
-examen prueba
+
+Este repositorio pertenece a Adrian, y se ha creado para el examen de IAW de 2ºASIX
